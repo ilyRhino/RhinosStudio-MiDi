@@ -6,47 +6,49 @@
 
 <badge> BETA RELEASE – VERSION 2.0.0 </badge>
 
-Rhinos Studio 2.0 is a Windows desktop application designed to convert audio recordings into MIDI files using AI-powered music transcription technology.
-
-Built for musicians, music producers, composers, and creative individuals, Rhinos Studio aims to make audio-to-MIDI conversion more accessible through an intuitive desktop experience.
+Rhinos Studio 2.0 is a Windows desktop application designed to help musicians and producers convert audio recordings into MIDI files using AI-powered music transcription technology.
 
 ---
 
-## ⚠️ Important: Beta Release Notice
+## ⚠️ Beta Release Notice
 
 **Rhinos Studio 2.0 is currently in BETA development.**
 
-This is an early release, and not all planned features and functionality are available yet.
+The application is actively being developed. Some features are still incomplete, and additional functionality and improvements are coming in future updates.
 
-**Currently working:**
-- 🎹 Audio-to-MIDI conversion
-- 📁 MIDI file export
+### ✅ Currently Working Features
 
-**Features and improvements are still in development.**
+The following features are currently working in this beta release:
 
-At this stage, MIDI conversion is the only currently supported working feature. Other features may be incomplete, unavailable, or subject to change.
+- 🎼 **Audio-to-MIDI Conversion** — Convert supported audio recordings into MIDI.
+- 🎹 **Music Transcription** — Detect and transcribe musical notes from audio.
+- 📁 **MIDI Export** — Export converted musical information as MIDI files.
+- ⏱️ **Automatic BPM Detection** — Automatically detect the tempo (BPM) of audio.
+- 🎸 **Instrument Selection** — Choose from a list of different instruments for your musical workflow.
 
-Updates will be released as development continues. The goal is to gradually expand functionality, improve performance, fix bugs, and deliver the full Rhinos Studio experience.
+### 🚧 More Features Coming Soon
 
-Please keep in mind:
-- You may encounter bugs or unexpected behavior.
-- Some features may not work as intended.
-- The software is actively being improved.
-- Future updates will introduce additional functionality.
+Rhinos Studio 2.0 is still under active development. Additional features, improvements, and refinements will be introduced through future updates.
 
-Thank you for being an early supporter of Rhinos Studio 2.0!
+Please remember:
+- This is an early beta release.
+- Bugs and unexpected behavior may occur.
+- Some planned functionality is not available yet.
+- Features and functionality may change as development continues.
+
+Thank you for supporting Rhinos Studio during its beta stage!
 
 ---
 
 ## ✨ Features
 
-- 🎼 **AI Audio-to-MIDI Conversion** — Transform supported audio recordings into MIDI data.
-- 🎹 **Music Transcription** — AI-powered technology to identify musical notes.
-- 📁 **MIDI Export** — Export converted musical information into MIDI files.
-- 🖥️ **Windows Desktop Application** — Designed for Windows computers.
-- ⚡ **User-Friendly Interface** — An accessible workflow for music creators.
-
-*Note: The features listed above may be subject to beta limitations. MIDI conversion is currently the only confirmed working feature.*
+- 🎼 AI-powered Audio-to-MIDI Conversion
+- 🎹 Music Transcription
+- 📁 MIDI Export
+- ⏱️ Automatic BPM Detection
+- 🎸 Multiple Instrument Options
+- 🖥️ Windows Desktop Application
+- ⚡ User-Friendly Interface
 
 ---
 
@@ -69,7 +71,7 @@ Thank you for being an early supporter of Rhinos Studio 2.0!
 3. Locate the downloaded `.exe` file.
 4. Run the installer.
 5. Follow the installation instructions.
-6. Launch Rhinos Studio and try the available MIDI conversion functionality.
+6. Launch Rhinos Studio and explore its available features.
 
 **Official Downloads:** [Download Rhinos Studio](YOUR-DOWNLOAD-LINK)
 
@@ -77,7 +79,7 @@ Thank you for being an early supporter of Rhinos Studio 2.0!
 
 ## 🧠 Technology
 
-Rhinos Studio 2.0 is built using modern desktop and AI technologies, including:
+Rhinos Studio 2.0 is built using:
 
 - React 18
 - Vite
@@ -85,21 +87,15 @@ Rhinos Studio 2.0 is built using modern desktop and AI technologies, including:
 - Spotify Basic Pitch
 - TensorFlow.js
 
-These technologies provide the foundation for its desktop interface and AI-powered audio transcription capabilities.
-
 ---
 
 ## 🎯 Who Is Rhinos Studio For?
-
-Rhinos Studio is designed for:
 
 - Music producers
 - Musicians and instrumentalists
 - Composers and arrangers
 - Audio enthusiasts
 - Music technology creators
-
-Whether you're working with recordings, developing musical arrangements, or exploring new creative possibilities, Rhinos Studio aims to help bridge the gap between audio and MIDI.
 
 ---
 
@@ -112,25 +108,13 @@ Whether you're working with recordings, developing musical arrangements, or expl
 **Distribution:** Freeware  
 **Development Status:** Actively in development
 
-See the Releases section for available downloads, bug fixes, improvements, and future updates.
+Check the Releases section for downloads, bug fixes, improvements, and future updates.
 
 ---
 
 ## 🚀 Future Development
 
-Rhinos Studio 2.0 is an ongoing project.
-
-Future updates are planned to expand the application's capabilities, improve existing functionality, and introduce additional tools for musicians and producers.
-
-Development priorities include:
-
-- Additional audio-processing functionality
-- Feature improvements
-- Performance optimization
-- Bug fixes and stability improvements
-- Expanded music-production capabilities
-
-Features and release timelines are subject to change as development progresses.
+Development is ongoing, with future updates planned to bring additional tools, expanded functionality, performance improvements, and greater stability.
 
 ---
 
@@ -154,10 +138,8 @@ No permission is granted to redistribute, modify, reverse engineer, or commercia
 
 Thank you for trying Rhinos Studio 2.0 during its beta stage!
 
-This is just the beginning. Rhinos Studio is actively being developed, and more features, improvements, and updates are on the way.
+The current release is just the beginning. More features, improvements, and updates are on the way.
 
-Your feedback, patience, and support help make the software better.
-
-We appreciate everyone who takes the time to test the early release and be part of the journey.
+Your feedback and support help make Rhinos Studio better.
 
 **Rhinos Studio 2.0 — Turning Sound Into Possibility.** 🎵
